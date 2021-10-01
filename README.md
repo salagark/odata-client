@@ -26,7 +26,9 @@ It should start the react-app in http://localhost:3000
 
 1. **Get All People:** Home Page does a GET request to fetch all people for a defined entity key and displays them On click of each person, their information is displayed on the right
 
-2.**Delete Person** : The Delete Button under each person info, will do a DELETE request to delete the resource on the service 3.**Edit Person** : Edit Button undr each person info, will route the app to a update page, which will allow the user to update the FirstName, LastName, MiddleName, Age and Email address of the user, and the app will do a Patch request to update the resource on the OData Service
+2. **Delete Person** : The Delete Button under each person info, will do a DELETE request to delete the resource on the service.
+
+3. **Edit Person** : Edit Button undr each person info, will route the app to a update page, which will allow the user to update the FirstName, LastName, MiddleName, Age and Email address of the user, and the app will do a Patch request to update the resource on the OData Service
 
 4. **Add New Person** : Clicking on Add on the Navigation Bar, will route the app to a Add page, which will allow the user to create a new person with all the details and their address. It will do a POST request to the OData service to create a new resource
 
