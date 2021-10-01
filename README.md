@@ -1,6 +1,6 @@
 # Tripin Service using OData and o.js
 
-The project using odata library https://www.npmjs.com/package/odata to fetch and process data from the
+The project uses odata library https://www.npmjs.com/package/odata to fetch and process data from the
 OData reference services.
 
 The project is not UI focussed so dont care about the stylings and UI/UX layout. The Idea is to
