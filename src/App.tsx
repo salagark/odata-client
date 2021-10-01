@@ -45,7 +45,7 @@ class App extends Component<AppProps, AppState> {
 			<div>
 				<nav className="navbar navbar-expand navbar-dark bg-dark">
 					<Link to={"/people"} className="navbar-brand" onClick={this.fetchPeople}>
-						Jibble
+						OData
 					</Link>
 					<div className="navbar-nav mr-auto">
 						<li className="nav-item">
